@@ -33,11 +33,11 @@ Users should be able to:
 
 Desktop Design:
 
-![desktop-design](/Users/janell/Desktop/Frontend Mentor/3-column-preview-card-component-main/desktop-design.png)
+![Desktop Design](./desktop-design.png)
 
 Mobile Design:
 
-![mobile-design](/Users/janell/Desktop/Frontend Mentor/3-column-preview-card-component-main/mobile-design.png)
+![mobile-design](./mobile-design.png)
 
 ### Links
 
@@ -49,7 +49,6 @@ Mobile Design:
 
 - Plain HTML / CSS
 - Flexbox
-- Responsive Design (Mobile Friendly!)
 
 ### What I learned
 
