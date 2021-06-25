@@ -41,7 +41,7 @@ Mobile Design:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://ajdemarco95.github.io/FrontEndChallenge-2/](https://ajdemarco95.github.io/FrontEndChallenge-2/)
 
 ## My process
 
